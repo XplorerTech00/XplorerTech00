@@ -1,8 +1,6 @@
-- 👋 Hi, I’m ANANDHASASIDHARAN
-- 👀 I’m interested in AI and CYBER SECURITY
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on ANY BEGINNER 
-- 📫 How to reach me ANANDHASASIDHARAN492@GMAIL.COM
+- 👋 Hi, I’m ASD
+- 👀 I’m interested in CYBER SECURITY
+
 
 <!---
 anandha0203/anandha0203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
